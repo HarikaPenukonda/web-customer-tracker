@@ -6,6 +6,10 @@
 <head>
 <meta charset="UTF-8">
 <title>List Customers</title>
+	<!-- refernce our style sheet -->
+	<link type="text/css"
+		  rel="stylesheet"
+		  href="${pageContext.request.contextPath}/resources/css/style.css"/> <!-- gives the proper name of the app location -->
 </head>
 <body>
 	
